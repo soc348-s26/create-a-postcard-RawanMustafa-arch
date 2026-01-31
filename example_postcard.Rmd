@@ -1,13 +1,10 @@
 ---
 title: "Example Postcard"
-image: "image.jpg"
+
 links:
-  - label: Emai
-    url: "mailto:your.email@example.com"
-  - label: GitHub
-    url: "https://github.com/yourusername"
-  - label: Linkedin
-    url: "https://linkedin.com/yourusername"
+  - label: Email
+    url: "rawanmustafa312723@gmail.com"
+  
 output:
   postcards::jolla
 ---
@@ -18,12 +15,12 @@ Write a brief bio about yourself here. This is a great place to share your backg
 
 ## Education
 
-**University Name** | City, State
+**Lehman college** | Bronx, NY
 
-Ph.D. in Subject | Year - Year
+B.s. Data Science & AI  | Present
 
 ## Experience
 
-**Job Title** | Company Name | Year - Year
+**Tutor** | Bronx Community College | Present
 
-Brief description of your role and responsibilities.
+.
