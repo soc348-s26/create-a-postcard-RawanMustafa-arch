@@ -1,29 +1,26 @@
 ---
-title: "My Postcard"
-image: "profile.jpg"
+title: "Postcard"
+
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: GitHub
-    url: "https://github.com/"
   - label: Email
-    url: "mailto:email@example.com"
+    url: "rawanmustafa312723@gmail.com"
+  
 output:
-  postcards::trestles
+  postcards::Rawan
 ---
- 
+
 ## Bio
 
-This is a sample postcard site created with the postcards R package.
+I earned an AAS in CIS amd am now pursuing a BS in Data Science & AI, with a passion for problrm solving and building practical tech solutions.
 
 ## Education
 
-**University Name** | City, State
+**Lehman college** | Bronx, NY
 
-B.S. in Subject | Year - Year
+B.s. Data Science & AI  | Present
 
 ## Experience
 
-**Company Name** | Position | Year - Year
+**Tutor** | Bronx Community College | Present
 
-Description of role and responsibilities.
+Helping students understand  concepts step by step through clear examples and guided practice.
