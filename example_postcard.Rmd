@@ -2,7 +2,7 @@
 title: "Example Postcard"
 image: "image.jpg"
 links:
-  - label: Email
+  - label: Emai
     url: "mailto:your.email@example.com"
   - label: GitHub
     url: "https://github.com/yourusername"
