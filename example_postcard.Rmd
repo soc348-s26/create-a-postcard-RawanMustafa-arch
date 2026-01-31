@@ -1,17 +1,17 @@
 ---
-title: "Example Postcard"
+title: "Postcard"
 
 links:
   - label: Email
     url: "rawanmustafa312723@gmail.com"
   
 output:
-  postcards::jolla
+  postcards::Rawan
 ---
 
 ## Bio
 
-Write a brief bio about yourself here. This is a great place to share your background, interests, and what you're currently working on.
+I earned an AAS in CIS amd am now pursuing a BS in Data Science & AI, with a passion for problrm solving and building practical tech solutions.
 
 ## Education
 
@@ -23,4 +23,4 @@ B.s. Data Science & AI  | Present
 
 **Tutor** | Bronx Community College | Present
 
-.
+Helping students understand  concepts step by step through clear examples and guided practice.
